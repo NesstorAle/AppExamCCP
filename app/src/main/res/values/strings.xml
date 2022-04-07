@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppExamCCP</string>
+    <string name="spalsh_screen_test">Test Nestor</string>
+    <string name="users">Usuarios</string>
 </resources>
